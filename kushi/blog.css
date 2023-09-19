@@ -1,0 +1,56 @@
+
+#blog-description{
+	color: green;
+}
+
+p{
+	font-size: 15px;
+	font-family: initial;
+}
+
+h1{
+	font-size: 50px;
+	font-family:sans-serif;
+
+}
+
+h1:hover{
+	color: orange;
+}
+main{
+	width: 70%;
+	display: inline-block;
+}
+
+/* aside */
+.widget{
+	border-top:4px solid black;
+}
+.widget input{
+	display: block;
+	background-color:#F7F7F7 ;
+	margin-bottom: 15px;
+	padding: 4px;
+	font-size: 1.2rem;
+	color: black;
+}
+button[type="submit"]{
+	margin-bottom: 15px;
+	padding: 4px;
+	font-size: 1.2rem;
+	color: white;
+	background-color: black;
+
+}
+
+.widget title{
+	font-size:1.5rem ;
+}
+aside{
+	width: 25%;
+	display: inline-block;
+	vertical-align: top;
+	margin: 4px;
+}
+
+
